@@ -7,9 +7,9 @@ db_pool = mysql.connector.pooling.MySQLConnectionPool(
     pool_name="trade_data",
     pool_size=5,
     host="localhost",
-    user="kyllian2",
-    password="cash7823",
-    database="blockchainprogapi"
+    user="Local Server",
+    password="Pierre-63!",
+    database="premieredatabase"
 )
 
 def insert_trade_data(cursor, pair, trade):

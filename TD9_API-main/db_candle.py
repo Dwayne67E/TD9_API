@@ -29,9 +29,9 @@ def main():
     # Replace these values with your actual MySQL connection details
     db_config = {
         "host": "localhost",
-        "user": "kyllian2",
-        "password": "cash7823",
-        "database": "blockchainprogapi",
+        "user": "Local Server",
+        "password": "Pierre-63!",
+        "database": "premieredatabase",
     }
 
     pair = "BTCUSDT"
